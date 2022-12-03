@@ -1,0 +1,8 @@
+*.pdb
+*.exe
+*.dll
+./bin/*
+./*/obj/*
+*/obj/*
+*.csproj
+*.json
